@@ -2,7 +2,7 @@
 dependencies: []
 
 galaxy_info:
-  role_name: vault-pki
+  role_name: vault_pki
   author: zzamzam
   description: Hashicorp Vault pki initialization and configuration for CentOS 7
   license: "license (BSD, MIT)"

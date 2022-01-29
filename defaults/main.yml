@@ -38,5 +38,5 @@ unseal_keys_dir_output: "{{ base_dir_output }}/unseal_keys"
 root_token_dir_output: "{{ base_dir_output }}/root_token"
 tokens_dir_output: "{{ base_dir_output }}/tokens"
 
-#vault_unseal_key: ""
-#vault_root_token: ""
+# vault_unseal_key: ""
+# vault_root_token: ""
